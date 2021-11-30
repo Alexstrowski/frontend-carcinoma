@@ -1,5 +1,6 @@
 {
   "name": "frontend-carcinoma",
+  "homepage": "https://github.com/Alexstrowski/frontend-carcinoma",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
