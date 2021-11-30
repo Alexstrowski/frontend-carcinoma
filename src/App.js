@@ -1,23 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { useState } from "react";
+import { Card, Image, Result, UploadFileContainer } from "./components";
 
 function App() {
+  const [image, setImage] = useState(null);
+  const [prediction, setPrediction] = useState({
+    bcc: null,
+    nobcc: null,
+  });
+  const [isLoading, setIsLoading] = useState(false);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container mx-auto">
+      <p className="text-6xl mt-8 text-center">
+        Predicción del carcinoma basocelular
+      </p>
+      <p className="text-3xl mt-8 text-center text-gray-600">
+        Cargar la imagen en formato .png o .jpg
+      </p>
+      <UploadFileContainer
+        updateImage={setImage}
+        updatePrediction={setPrediction}
+        setIsLoading={setIsLoading}
+      />
+      <Card>
+        <div className="flex">
+          <Image image={image} />
+          <Result prediction={prediction} isLoading={isLoading} />
+        </div>
+      </Card>
     </div>
   );
 }
