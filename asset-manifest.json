@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Alexstrowski/frontend-carcinoma/static/css/main.104acf1c.chunk.css",
+    "main.js": "/Alexstrowski/frontend-carcinoma/static/js/main.142abd77.chunk.js",
+    "main.js.map": "/Alexstrowski/frontend-carcinoma/static/js/main.142abd77.chunk.js.map",
+    "runtime-main.js": "/Alexstrowski/frontend-carcinoma/static/js/runtime-main.e7118678.js",
+    "runtime-main.js.map": "/Alexstrowski/frontend-carcinoma/static/js/runtime-main.e7118678.js.map",
+    "static/js/2.4f278ef4.chunk.js": "/Alexstrowski/frontend-carcinoma/static/js/2.4f278ef4.chunk.js",
+    "static/js/2.4f278ef4.chunk.js.map": "/Alexstrowski/frontend-carcinoma/static/js/2.4f278ef4.chunk.js.map",
+    "index.html": "/Alexstrowski/frontend-carcinoma/index.html",
+    "static/css/main.104acf1c.chunk.css.map": "/Alexstrowski/frontend-carcinoma/static/css/main.104acf1c.chunk.css.map",
+    "static/js/2.4f278ef4.chunk.js.LICENSE.txt": "/Alexstrowski/frontend-carcinoma/static/js/2.4f278ef4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7118678.js",
+    "static/js/2.4f278ef4.chunk.js",
+    "static/css/main.104acf1c.chunk.css",
+    "static/js/main.142abd77.chunk.js"
+  ]
+}
