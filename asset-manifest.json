@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/frontend-carcinoma/static/css/main.104acf1c.chunk.css",
-    "main.js": "/frontend-carcinoma/static/js/main.142abd77.chunk.js",
-    "main.js.map": "/frontend-carcinoma/static/js/main.142abd77.chunk.js.map",
+    "main.css": "/frontend-carcinoma/static/css/main.76c298c6.chunk.css",
+    "main.js": "/frontend-carcinoma/static/js/main.f6de41b5.chunk.js",
+    "main.js.map": "/frontend-carcinoma/static/js/main.f6de41b5.chunk.js.map",
     "runtime-main.js": "/frontend-carcinoma/static/js/runtime-main.19bc1ba1.js",
     "runtime-main.js.map": "/frontend-carcinoma/static/js/runtime-main.19bc1ba1.js.map",
     "static/js/2.4f278ef4.chunk.js": "/frontend-carcinoma/static/js/2.4f278ef4.chunk.js",
     "static/js/2.4f278ef4.chunk.js.map": "/frontend-carcinoma/static/js/2.4f278ef4.chunk.js.map",
     "index.html": "/frontend-carcinoma/index.html",
-    "static/css/main.104acf1c.chunk.css.map": "/frontend-carcinoma/static/css/main.104acf1c.chunk.css.map",
+    "static/css/main.76c298c6.chunk.css.map": "/frontend-carcinoma/static/css/main.76c298c6.chunk.css.map",
     "static/js/2.4f278ef4.chunk.js.LICENSE.txt": "/frontend-carcinoma/static/js/2.4f278ef4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19bc1ba1.js",
     "static/js/2.4f278ef4.chunk.js",
-    "static/css/main.104acf1c.chunk.css",
-    "static/js/main.142abd77.chunk.js"
+    "static/css/main.76c298c6.chunk.css",
+    "static/js/main.f6de41b5.chunk.js"
   ]
 }
